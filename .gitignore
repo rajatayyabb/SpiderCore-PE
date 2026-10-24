@@ -1,0 +1,7 @@
+*.zip
+*.part-*
+*.iso
+*.vhd
+*.vhdx
+*.vmdk
+*.qcow2
